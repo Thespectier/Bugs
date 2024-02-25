@@ -1,3 +1,4 @@
+// 第六十行的system("chcp 65001")解决了该程序在命令行界面运行时的中文乱码问题
 #include <windows.h>  
 #include <stdio.h>  
 #include <string.h>  
